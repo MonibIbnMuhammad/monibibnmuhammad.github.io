@@ -1,3 +1,10 @@
 body{
-    background-color: red (96, 92, 112)
+    background-color: red (96, 92, 112);
+}
+
+h1{
+    color: green;
+}
+table{
+    border: 1px dashed black;
 }
