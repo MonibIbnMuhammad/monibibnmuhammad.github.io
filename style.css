@@ -9,3 +9,6 @@ table, th, td{
     border: 1px dashed black;
     text-align: center;
 }
+p{
+    color: green;
+}
